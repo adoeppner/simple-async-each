@@ -1,0 +1,27 @@
+{
+  "name": "simple-async-each",
+  "version": "1.0.0",
+  "description": "Simple serial async each in the array usage style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adoeppner/simple-async-each.git"
+  },
+  "keywords": [
+    "each",
+    "async",
+    "array",
+    "serial",
+    "series"
+  ],
+  "types": "index.d.ts",
+  "author": "adoeppner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adoeppner/simple-async-each/issues"
+  },
+  "homepage": "https://github.com/adoeppner/simple-async-each#readme"
+}
